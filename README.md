@@ -1,5 +1,6 @@
 # Data-_cleaning_project
-Data Cleaning Project
+Data Cleaning Project-
+
 This repository contains a comprehensive data cleaning project aimed at transforming raw data into a structured, clean, and analyzable format. The project covers a wide range of data cleaning techniques, including handling missing values, correcting data types, and normalizing data to ensure consistency across the dataset.
 
 Table of Contents
@@ -10,16 +11,20 @@ Usage
 Contributing
 License
 Contact
-Introduction
+
+Introduction-
+
 Data cleaning is a crucial step in any data analysis pipeline. This project provides a detailed example of how to clean and preprocess a dataset to make it suitable for further analysis. The aim is to address common data issues such as missing values, inconsistencies, and incorrect data types, which can significantly impact the quality of the analysis.
 
-Features
+Features-
+
 Missing Data Handling: Techniques for imputing or removing missing data points.
 Data Type Correction: Ensuring data is in the correct format for analysis.
 Normalization: Standardizing data to maintain consistency across the dataset.
 Outlier Detection: Identifying and handling outliers to reduce their impact on analysis.
 Data Transformation: Applying transformations to make data suitable for specific analytical tasks.
-Installation
+
+Installation-
 To get started with this project, follow the steps below:
 
 Clone the repository:
